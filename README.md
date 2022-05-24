@@ -1,4 +1,3 @@
 # Calculator
+<img src="images/calc.png" height="700" width="350" >
 Its a calculator built with mvc architecture.
-
-<img src="images/calc.png" height="800" width="350" >
